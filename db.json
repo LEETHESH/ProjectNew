@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Samosa",
+      "price": "20",
+      "photo": "Image/10.jpg"
+    },
+    {
+      "id": 2,
+      "name": "sprite",
+      "price": "40",
+      "photo": "Image/1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dosa",
+      "price": "45",
+      "photo": "Image/2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "kachodi",
+      "price": "20",
+      "photo": "Image/3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Barger",
+      "price": "20",
+      "photo": "Image/4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Coca-Cola",
+      "price": "20",
+      "photo": "Image/5.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pizza",
+      "price": "20",
+      "photo": "Image/6.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Idly",
+      "price": "20",
+      "photo": "Image/7.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mater-Panir",
+      "price": "40",
+      "photo": "Image/8.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Palak-Panir",
+      "price": "40",
+      "photo": "Image/9.jpg"
+    }
+  ]
+}
